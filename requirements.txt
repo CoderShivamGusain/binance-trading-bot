@@ -1,0 +1,9 @@
+# --- Core API Communication ---
+python-binance==1.0.19
+requests==2.32.3
+
+# --- CLI Implementation ---
+click==8.1.7
+
+# --- Environment Security ---
+python-dotenv==1.0.1

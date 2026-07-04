@@ -1,0 +1,27 @@
+# ── Secrets & environment ─────────────────────
+# .env               # never commit API keys
+# *.env
+
+# ── Python artefacts ───────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.dist-info/
+*.egg
+*.whl
+
+# ── Virtual‑env folders ───────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Log files ───────────────────────────────────
+bot.log
+*.log
+
+# ── OS‑specific ────────────────────────────────
+.DS_Store
+Thumbs.db
