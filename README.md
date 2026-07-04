@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/CoderShivamGusain/binance-trading-bot)](https://github.com/CoderShivamGusain/binance-trading-bot/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/CoderShivamGusain/binance-trading-bot)](https://github.com/CoderShivamGusain/binance-trading-bot/stargazers)
+
 # Binance Futures Testnet Trading Bot
 
 A lightweight, modular Python CLI tool that places **Market** and **Limit** orders on the Binance Futures USDT‑M testnet. The project emphasizes clean architecture, defensive validation, and institutional‑grade logging.
